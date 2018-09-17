@@ -3,7 +3,7 @@ import App from './App.vue';
 import router from './router';
 import store from './store';
 import './registerServiceWorker';
-
+// test -1 
 Vue.config.productionTip = false;
 
 new Vue({
